@@ -33,15 +33,36 @@ while game:
              if guess_word.lower() == secret_word:
                 print('Congratulations! You guessed it')
                 print(f'It took you {guess_counter} guess(es).')
+                break
              else:
                 #check if the letter exist in the word
                 for letter in guess_word:
                      if letter in secret_word:
                         print(letter, end='')
                      else:
-                          print('_ ', end='')
-                          #print(f'Your hint is {underscore_word}')
+                        print('_ ', end='')
 
+                print()
+                print()
+
+                for index, letter in enumerate(guess_word):
+                     if letter in secret_word or letter == secret_word[index]:
+                        if index >= 0:
+                            print(f'{letter.upper()} ', end='')
+                     else:
+                        print('_ ', end='')
+
+                print()
+                print()
+
+                for index, letter in enumerate(guess_word):
+                     if letter in secret_word and letter == secret_word[index]:
+                        if index >= 0:
+                            print(f'{letter.upper()} ', end='')       
+                     elif letter in secret_word:
+                         print(f'{letter} ', end='')
+                     else:
+                        print('_ ', end='')
 
                 #print('Sorry wrong word.')
        else:
