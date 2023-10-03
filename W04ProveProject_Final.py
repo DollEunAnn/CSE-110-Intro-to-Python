@@ -10,13 +10,20 @@ game = True
 secret_word = 'mosiah'
 number_of_secret_word = len(secret_word)
 
+
 guess_counter = 0
+underscore_word = ''
 
 print('Welcome to the word guessing game!')
 print()
-print('Your hint is: _ _ _ _ _ _ ')
 
-while game:       
+for letter in secret_word:
+     underscore_word += '_ '
+
+print(f'Your hint is {underscore_word}')
+
+while game:
+       print()       
        guess_word = input('What is your guess? ')
        number_of_guess_word = len(guess_word)
        
@@ -27,8 +34,16 @@ while game:
                 print('Congratulations! You guessed it')
                 print(f'It took you {guess_counter} guess(es).')
              else:
-                #function send it to loop
-                print('Sorry wrong word.')
+                #check if the letter exist in the word
+                for letter in guess_word:
+                     if letter in secret_word:
+                        print(letter, end='')
+                     else:
+                          print('_ ', end='')
+                          #print(f'Your hint is {underscore_word}')
+
+
+                #print('Sorry wrong word.')
        else:
            print('Sorry, the guess must have the same number of letters as the secret word.')
            print()
