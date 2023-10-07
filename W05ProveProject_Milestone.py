@@ -22,14 +22,14 @@ while True:
     print('4. Compute the total') 
     print('5. Quit')
 
-    user_option = int(input('Please enter an action: '))
+    user_option = int(input('Please enter an action: '))     
 
     # Menu 1 - Add a new item
     if user_option == 1:
         add_item = input('What item would you like to add? ')
 
         shopping_cart.append(add_item)
-        
+
         #get the latest item
         latest_item = shopping_cart[-1]
 
@@ -48,3 +48,9 @@ while True:
     if user_option == 5:
         print('Thank you. Goodbye.')
         break
+    
+    
+    if user_option not in [1, 2, 5]:
+        print()
+        print('That option is not available.')
+        print()

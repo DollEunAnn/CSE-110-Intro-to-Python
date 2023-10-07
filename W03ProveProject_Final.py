@@ -201,11 +201,3 @@ while True:
     break
 
 choice = 'YES'
-
-
-if choice == 'YES':
-    [do something here]
-elif choise == 'NO':
-    [do something here]
-else:
-    [do something here]
