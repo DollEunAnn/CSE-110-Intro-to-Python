@@ -7,7 +7,7 @@ Dollete, Eunice Ann
 
 # I added an option where they can choose a category of what word they want to guess. 
 # I list down 5 categories then a random function will choose a word inside the array.
-# I also include a while loop to keep asking for the right option of category if the user entered an option more than 5 or less than 1
+# I also included a while loop to keep asking for the right option of category if the user entered an option more than 5 or less than 1
   
 import random
 
@@ -18,7 +18,7 @@ set_list = ''
 
 fruits = ['apple', 'banana', 'watermelon', 'grape', 'mango']
 colors = ['red', 'blue', 'green', 'yellow', 'purple']
-countries = ['USA', 'Canada', 'France', 'Japan', 'Australia']
+countries = ['USA', 'Canada', 'France', 'Japan', 'Philippines']
 animals = ['cat', 'horse', 'koala', 'fish', 'dog']
 programming_languages = ['Python', 'Java', 'JavaScript', 'PHP', 'Ruby']
 
