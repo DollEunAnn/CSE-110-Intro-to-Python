@@ -6,7 +6,7 @@ Dollete, Eunice Ann
 """
 # I created a function view_cart to display the contents of the cart and also tells if its empty.
 # If the cart is empty for Menu 2, 3, and 5 it will show a message.
-# I reuse my code from W02 Meal Price Calucator for the Menu 5 I added which is the payment method.
+# I reuse my code from W02 Meal Price Calucator for the Menu 5 I added which is the payment method, if the user checkout and pay, the cart will empty.
 
 # Variables
 shopping_cart = []
@@ -32,8 +32,6 @@ def cash_payment_method(total_price):
     payment_change_amount = payment_amount - total_price
     print(f'Change: ${payment_change_amount:.2f}')
     print()
-    shopping_cart.clear()
-    shopping_cart_prices.clear()
 
 def card_payment_method(total_price):
     print()
@@ -54,8 +52,7 @@ CVV: {card_cvv_masked}
     print(f'Your card has been successfully charged with ${total_price:.2f}')
     print(f'Change: $0')
     print()
-    shopping_cart.clear()
-    shopping_cart_prices.clear()
+    
 
 # Start of Program
 print()
@@ -74,7 +71,10 @@ while True:
     print('6. Quit')
 
     print()
-    user_option = int(input('Please enter an action: '))   
+    try:
+        user_option = int(input('Please enter an action: '))
+    except ValueError:
+        print('Invalid input. Please enter valid menu option (1 to 6).')  
 
     # Menu 1 - Add item
     if user_option == 1:
@@ -117,7 +117,6 @@ while True:
             remove_item -= 1
 
             if 0 <= remove_item < len(shopping_cart):
-
                 # remove the item in both list
                 shopping_cart.pop(remove_item)
                 shopping_cart_prices.pop(remove_item)
@@ -127,8 +126,6 @@ while True:
                 print('Updated list of your cart:')
                 view_cart()
                 print()
-
-
             else:
                 print('That item is not valid.')
 
@@ -141,7 +138,7 @@ while True:
         print(f'The total price of the items in the shopping cart is ${total_price:.2f}')
         print()
 
-        #return the value to 0 because it keeps the amount computed last time
+        #return the value to 0 because it keeps the amount value computed last time
         total_price = 0  
 
     # Menu 5 - Checkout and Pay
@@ -156,7 +153,10 @@ while True:
             print('1 : Cash')
             print('2 : Debit / Credit Card')
 
-            payment_method = int(input('Enter your choice (1/2): '))
+            try:
+                payment_method = int(input('Enter your choice (1/2): '))
+            except ValueError:
+                print('Invalid input. Please enter valid menu option (1 to 6).')
 
             for price in shopping_cart_prices:
                 total_price += price
@@ -168,13 +168,19 @@ while True:
             else:
                 print("Invalid option")
 
+            # clear the carts and total price
+            total_price = 0
+            shopping_cart = []
+            shopping_cart_prices = []
 
     # Menu 6 - Exit
     if user_option == 6:
+        print()
         print('Thank you. Goodbye.')
         break
         
-    if user_option not in [1, 2, 3, 4, 5, 6]:
+    # if user input an option not in the menu of 1 - 6
+    if user_option not in range(1, 7):
         print()
         print('That option is not available.')
         print()
