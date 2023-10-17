@@ -58,8 +58,8 @@ else:
 print()
 print(f'You choose: {set_name.title()}')
 
-#secret_word = 'mosiah'
-secret_word = random.choice(set_list)
+secret_word = 'dog'
+#secret_word = random.choice(set_list)
 
 number_of_secret_word = len(secret_word)
 
