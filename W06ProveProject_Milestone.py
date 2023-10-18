@@ -13,28 +13,31 @@ country_max = ''
 years_max = -1
 
 
-
 with open("life-expectancy.csv") as life_data:
+    counter = 0
     # iterate data line by line
-    for expectancy in life_data:
-        #print(expectancy)
+    for index, expectancy in enumerate(life_data):
+        if counter >= 372:
+            break
 
-        # split each into parts
-        per_expectancy = expectancy.split()
-        #print(per_expectancy)
+        # skipped the header
+        if index == 0:
+            continue
+        # strip and split each into parts but comma
+        per_expectancy = expectancy.strip().split(',')
 
-        # find the lowest expectancy and highest expectancy
-        string_year = per_expectancy[-1]
-        year = float(string_year)
+        year = float(per_expectancy[3])
         country = per_expectancy[0]
 
         if year > years_max:
-            year_max = year
+            years_max = year
             country_max = country
         
         if year < years_min and year > 0:
-            year_min = year
+            years_min = year
             country_min = country
+     
+        counter += 1
 
 
 print(f'The max life expectancy was in {country_max} with {years_max}')
