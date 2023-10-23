@@ -6,39 +6,35 @@ Dollete, Eunice Ann
 """
 import csv
 
+#over all
 country_min = ''
-years_min = 100
+life_year_min = 100
 
 country_max = ''
-years_max = -1
+life_year_max = -1
 
 
 with open("life-expectancy.csv") as life_data:
-    counter = 0
-    # iterate data line by line
+    # iterate data line by line, use enumerate to get index
     for index, expectancy in enumerate(life_data):
-        if counter >= 372:
-            break
-
         # skipped the header
         if index == 0:
             continue
-        # strip and split each into parts but comma
+        # strip and split each line into parts - comma
         per_expectancy = expectancy.strip().split(',')
-
-        year = float(per_expectancy[3])
+        #convert year into float
+        life_year = float(per_expectancy[3])
         country = per_expectancy[0]
 
-        if year > years_max:
-            years_max = year
+        # check the max
+        if life_year > life_year_max:
+            life_year_max = life_year
             country_max = country
         
-        if year < years_min and year > 0:
-            years_min = year
+        # check the min
+        if life_year < life_year_min and life_year > 0:
+            life_year_min = life_year
             country_min = country
-     
-        counter += 1
 
-
-print(f'The max life expectancy was in {country_max} with {years_max}')
-print(f'The min life expectancy was in {country_min} with {years_min}')
+print(f'The highest value for life expectancy was {life_year_max} years.')
+print(f'The lowest value for life expectancy was {life_year_min} years.')
