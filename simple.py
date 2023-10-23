@@ -1,9 +1,10 @@
-try:
-    age = int(input("Enter your age: "))
-    if age < 0 or age > 120:
-        print("Invalid age. Please enter a value between 0 and 120.")
-    else:
-        print("Your age is:", age)
-except ValueError:
-    print("Invalid input. Please enter a valid integer.")
+number = 0
+""" 
+while number >= 0:
+    number = int(input("Please type a positive number: "))
+    name = input("Sorry, that is a negative number. Please try again. ") # this is your mistake """
 
+while number >= 0:
+    number = int(input("Please type a positive number: "))
+    print("Sorry, that is a negative number. Please try again. ") # this is your mistake
+    

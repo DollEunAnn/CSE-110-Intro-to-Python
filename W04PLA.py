@@ -62,5 +62,20 @@ for numb in range(2, 21, 2):
 
 
 # Looping through Strings
-print("This is line one.", end="")
-print("This is line two.")
+
+word = 'commitment'
+
+fav_letter = input('What is your favorite letter? ')
+
+for letter in word:
+    if letter == fav_letter.lower():
+        print(f'{letter.upper()}', end='')
+    else:
+        print(letter,end='')
+print()
+# Hide the letter
+for letter in word:
+    if letter == fav_letter.lower():
+        print(f'_', end='')
+    else:
+        print(letter,end='')
