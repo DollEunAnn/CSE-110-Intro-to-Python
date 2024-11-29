@@ -1,0 +1,57 @@
+[
+    [
+        'employee_number' => 10198,
+        'last_name' => 'Aguilar',
+        'first_name' => 'Fernando',
+        'middle_name' => 'Labandero',
+        'department_code' => 'RM',
+        'user_group_code' => 'REQUESTER',
+        'property_code' => 'APS',
+        'username' => 10198,
+        'password' => 10198
+    ],
+    [
+        'employee_number' => 22001,
+        'last_name' => 'Brina',
+        'first_name' => 'Marvin',
+        'middle_name' => 'Espa\u00f1ola',
+        'department_code' => 'SECURITY',
+        'user_group_code' => 'REQUESTER',
+        'property_code' => 'APS',
+        'username' => 22001,
+        'password' => 22001
+    ],
+    [
+        'employee_number' => 22002,
+        'last_name' => 'Forcadilla',
+        'first_name' => 'Alfie',
+        'middle_name' => 'Cornita',
+        'department_code' => 'SECURITY',
+        'user_group_code' => 'REQUESTER',
+        'property_code' => 'APS',
+        'username' => 22002,
+        'password' => 22002
+    ],
+    [
+        'employee_number' => 22005,
+        'last_name' => 'Socuano',
+        'first_name' => 'Alfie',
+        'middle_name' => 'Ravelo',
+        'department_code' => 'SECURITY',
+        'user_group_code' => 'REQUESTER',
+        'property_code' => 'APS',
+        'username' => 22005,
+        'password' => 22005
+    ],
+    [
+        'employee_number' => 22006,
+        'last_name' => 'Socuano',
+        'first_name' => 'Fernan',
+        'middle_name' => 'Ravelo',
+        'department_code' => 'SECURITY',
+        'user_group_code' => 'REQUESTER',
+        'property_code' => 'APS',
+        'username' => 22006,
+        'password' => 22006
+    ]
+]

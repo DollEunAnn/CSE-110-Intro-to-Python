@@ -1,0 +1,290 @@
+[
+    [
+        "last_name" => "Aduna",
+        "first_name" => "Mark Angelo Paclibar",
+        "position" => null,
+        "username" => "80607",
+        "employee_number" => "80607",
+        "email_address" => "aduna@astoria.com.ph",
+        "password" => "q"
+    ],
+    [
+        "last_name" => "Balista",
+        "first_name" => "Ayrik Gemrey Mortejo",
+        "position" => null,
+        "username" => "80438",
+        "employee_number" => "80438",
+        "email_address" => "balista@astoria.com.ph",
+        "password" => "q"
+    ],
+    [
+        "last_name" => "Bantiling",
+        "first_name" => "Cherry Rose Bilbao",
+        "position" => "Software Engineer",
+        "username" => "80659",
+        "employee_number" => "80659",
+        "email_address" => "cherry.bantiling@astoria.com.ph",
+        "password" => "q"
+    ],
+    [
+        "last_name" => "Bustamante",
+        "first_name" => "Jose Marie Zulueta",
+        "position" => null,
+        "username" => "80452",
+        "employee_number" => "80452",
+        "email_address" => "bustamante@astoria.com.ph",
+        "password" => "q"
+    ],
+    [
+        "last_name" => "Cello",
+        "first_name" => "Medardo Esportuno II",
+        "position" => null,
+        "username" => "80464",
+        "employee_number" => "80464",
+        "email_address" => "cello@astoria.com.ph",
+        "password" => "q"
+    ],
+    [
+        "last_name" => "Datu",
+        "first_name" => "Christiana Rossann Tusi",
+        "position" => "Software Engineer",
+        "username" => "80409",
+        "employee_number" => "80409",
+        "email_address" => "yannah.datu@astoria.com.ph",
+        "password" => "q"
+    ],
+    [
+        "last_name" => "De Leon",
+        "first_name" => "Jeb",
+        "position" => null,
+        "username" => "30416",
+        "employee_number" => "30416",
+        "email_address" => "de leon@astoria.com.ph",
+        "password" => "q"
+    ],
+    [
+        "last_name" => "Deligero",
+        "first_name" => "Ricky Llavore",
+        "position" => null,
+        "username" => "80581",
+        "employee_number" => "80581",
+        "email_address" => "deligero@astoria.com.ph",
+        "password" => "q"
+    ],
+    [
+        "last_name" => "Dollete",
+        "first_name" => "Eunice Ann Hernandez",
+        "position" => "Software Engineer",
+        "username" => "10120",
+        "employee_number" => "10120",
+        "email_address" => "eunice.dollete@astoria.com.ph",
+        "password" => "q"
+    ],
+    [
+        "last_name" => "Encomienda",
+        "first_name" => "Jasmin Parica",
+        "position" => null,
+        "username" => "30108",
+        "employee_number" => "30108",
+        "email_address" => "encomienda@astoria.com.ph",
+        "password" => "q"
+    ],
+    [
+        "last_name" => "Escamilla",
+        "first_name" => "Christian Kim Bolante",
+        "position" => "Software Engineer",
+        "username" => "80460",
+        "employee_number" => "80460",
+        "email_address" => "christian.escamilla@astoria.com.ph",
+        "password" => "q"
+    ],
+    [
+        "last_name" => "Faraon",
+        "first_name" => "Jonah Micah Pascua",
+        "position" => null,
+        "username" => "80662",
+        "employee_number" => "80662",
+        "email_address" => "faraon@astoria.com.ph",
+        "password" => "q"
+    ],
+    [
+        "last_name" => "Francisco",
+        "first_name" => "Julliah Raymundo Raymundo",
+        "position" => null,
+        "username" => "12949",
+        "employee_number" => "12949",
+        "email_address" => "francisco@astoria.com.ph",
+        "password" => "q"
+    ],
+    [
+        "last_name" => "Gamino",
+        "first_name" => "Joseph Isaac Gubala",
+        "position" => null,
+        "username" => "80313",
+        "employee_number" => "80313",
+        "email_address" => "gamino@astoria.com.ph",
+        "password" => "q"
+    ],
+    [
+        "last_name" => "Go",
+        "first_name" => "George Michael Azarcon",
+        "position" => null,
+        "username" => "80732",
+        "employee_number" => "80732",
+        "email_address" => "go@astoria.com.ph",
+        "password" => "q"
+    ],
+    [
+        "last_name" => "Jumaquio",
+        "first_name" => "Mack Clinton Dumdum",
+        "position" => null,
+        "username" => "80735",
+        "employee_number" => "80735",
+        "email_address" => "jumaquio@astoria.com.ph",
+        "password" => "q"
+    ],
+    [
+        "last_name" => "Labrador",
+        "first_name" => "Ryan",
+        "position" => null,
+        "username" => "20009",
+        "employee_number" => "20009",
+        "email_address" => "labrador@astoria.com.ph",
+        "password" => "q"
+    ],
+    [
+        "last_name" => "Macabebe",
+        "first_name" => "Russel Andrey Romantico",
+        "position" => null,
+        "username" => "80759",
+        "employee_number" => "80759",
+        "email_address" => "macabebe@astoria.com.ph",
+        "password" => "q"
+    ],
+    [
+        "last_name" => "Noto",
+        "first_name" => "Roy Allan Irapta",
+        "position" => null,
+        "username" => "80402",
+        "employee_number" => "80402",
+        "email_address" => "noto@astoria.com.ph",
+        "password" => "q"
+    ],
+    [
+        "last_name" => "Padua",
+        "first_name" => "Eugene Estabas",
+        "position" => null,
+        "username" => "80013",
+        "employee_number" => "80013",
+        "email_address" => "padua@astoria.com.ph",
+        "password" => "q"
+    ],
+    [
+        "last_name" => "Perez",
+        "first_name" => "Allen Andrew",
+        "position" => null,
+        "username" => "PBAPZ-048",
+        "employee_number" => "PBAPZ-048",
+        "email_address" => "perez@astoria.com.ph",
+        "password" => "q"
+    ],
+    [
+        "last_name" => "Revilla",
+        "first_name" => "Rolando Valenzuela III",
+        "position" => null,
+        "username" => "12946",
+        "employee_number" => "12946",
+        "email_address" => "revilla@astoria.com.ph",
+        "password" => "q"
+    ],
+    [
+        "last_name" => "Revilla III",
+        "first_name" => "Rolando",
+        "position" => null,
+        "username" => "13018",
+        "employee_number" => "13018",
+        "email_address" => "revilla iii@astoria.com.ph",
+        "password" => "q"
+    ],
+    [
+        "last_name" => "Reyes",
+        "first_name" => "Ryan Tan",
+        "position" => null,
+        "username" => "80573",
+        "employee_number" => "80573",
+        "email_address" => "reyes@astoria.com.ph",
+        "password" => "q"
+    ],
+    [
+        "last_name" => "Rosario",
+        "first_name" => "Javie",
+        "position" => null,
+        "username" => "PBAPZ-045",
+        "employee_number" => "PBAPZ-045",
+        "email_address" => "rosario@astoria.com.ph",
+        "password" => "q"
+    ],
+    [
+        "last_name" => "Rosario",
+        "first_name" => "Javie",
+        "position" => null,
+        "username" => "PBAPZ-047",
+        "employee_number" => "PBAPZ-047",
+        "email_address" => "rosario@astoria.com.ph",
+        "password" => "q"
+    ],
+    [
+        "last_name" => "Santiago",
+        "first_name" => "Alvin Arevalo",
+        "position" => null,
+        "username" => "80658",
+        "employee_number" => "80658",
+        "email_address" => "santiago@astoria.com.ph",
+        "password" => "q"
+    ],
+    [
+        "last_name" => "Santos",
+        "first_name" => "Herbert Vicedo",
+        "position" => null,
+        "username" => "80049",
+        "employee_number" => "80049",
+        "email_address" => "santos@astoria.com.ph",
+        "password" => "q"
+    ],
+    [
+        "last_name" => "Simbajon",
+        "first_name" => "Lorenzo Melnico Gamez",
+        "position" => null,
+        "username" => "80568",
+        "employee_number" => "80568",
+        "email_address" => "simbajon@astoria.com.ph",
+        "password" => "q"
+    ],
+    [
+        "last_name" => "Sula",
+        "first_name" => "Grace De Guzman",
+        "position" => null,
+        "username" => "10067",
+        "employee_number" => "10067",
+        "email_address" => "sula@astoria.com.ph",
+        "password" => "q"
+    ],
+    [
+        "last_name" => "Vinas",
+        "first_name" => "Philip Calvin Elechosa",
+        "position" => null,
+        "username" => "80771",
+        "employee_number" => "80771",
+        "email_address" => "vinas@astoria.com.ph",
+        "password" => "q"
+    ],
+    [
+        "last_name" => "Yutoc",
+        "first_name" => "Kim Martin Escala",
+        "position" => null,
+        "username" => "80606",
+        "employee_number" => "80606",
+        "email_address" => "yutoc@astoria.com.ph",
+        "password" => "q"
+    ]
+}

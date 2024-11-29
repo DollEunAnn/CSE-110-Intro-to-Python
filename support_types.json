@@ -1,0 +1,262 @@
+[
+    {
+        "name":"Astoria Aces (Chardonnay)",
+        "code":"ACESC"
+    },
+    {
+        "name":"Astoria Aces - Farm to Table (R401)",
+        "code":"R401"
+    },
+    {
+        "name":"Astoria Aces",
+        "code":"ACES"
+    },
+    {
+        "name":"ACHI",
+        "code":"ACHI"
+    },
+    {
+        "name":"Front Office",
+        "code":"FO"
+    },
+    {
+        "name":"Human Resource",
+        "code":"HR"
+    },
+    {
+        "name":"Central Reservations",
+        "code":"CRS"
+    },
+    {
+        "name":"ICT",
+        "code":"ICT"
+    },
+    {
+        "name":"AVLCI - Accounting",
+        "code":"AVLCI-ACCTG"
+    },
+    {
+        "name":"AVLCI - Telemarketing",
+        "code":"AVLCI-T"
+    },
+    {
+        "name":"AVLCI - CNC Div 1",
+        "code":"AVLCI-DIV1"
+    },
+    {
+        "name":"AVLCI - CNC Div 2",
+        "code":"AVLCI-DIV2"
+    },
+    {
+        "name":"F&B Kitchen",
+        "code":"FB-KITCHEN"
+    },
+    {
+        "name":"F&B Service",
+        "code":"FB-SERVICE"
+    },
+    {
+        "name":"F&B Pastry",
+        "code":"FB-PASTRY"
+    },
+    {
+        "name":"F&B Steward",
+        "code":"FB-STEWARD"
+    },
+    {
+        "name":"AVLCI - MSD Regular",
+        "code":"AVLCI-MSDREG"
+    },
+    {
+        "name":"AVLCI - Premium MSD (Upgrade)",
+        "code":"AVLCI-MSDUP"
+    },
+    {
+        "name":"AVLCI - ROI",
+        "code":"AVLCI-ROI"
+    },
+    {
+        "name":"AVLCI - Exhibit",
+        "code":"AVLCI-EXHIBIT"
+    },
+    {
+        "name":"Corporate Sales",
+        "code":"CORP-S"
+    },
+    {
+        "name":"AVLCI - Sales",
+        "code":"AVLCI-SALES"
+    },
+    {
+        "name":"AVLCI - Marcomm",
+        "code":"AVLCI-MARCOMM"
+    },
+    {
+        "name":"Creatives",
+        "code":"CREATIVES"
+    },
+    {
+        "name":"Digital Marketing",
+        "code":"DIGITAL-MARKET"
+    },
+    {
+        "name":"Housekeeping",
+        "code":"HK"
+    },
+    {
+        "name":"Engineering",
+        "code":"ENGR"
+    },
+    {
+        "name":"Special Projects",
+        "code":"SP-PRJ"
+    },
+    {
+        "name":"Planning & Design",
+        "code":"PLAN-DES"
+    },
+    {
+        "name":"Stellar Potter' Ridge",
+        "code":"SPR"
+    },
+    {
+        "name":"AG Laundry",
+        "code":"AGLAUNDRY"
+    },
+    {
+        "name":"NexGen Tower",
+        "code":"NEXGEN-TOWER"
+    },
+    {
+        "name":"AVLCI - Pansol",
+        "code":"AVLCI-PANSOL"
+    },
+    {
+        "name":"Accounting",
+        "code":"ACCOUNTING"
+    },
+    {
+        "name":"Internal Audit",
+        "code":"INTERNAL-AUDIT"
+    },
+    {
+        "name":"Account Payables",
+        "code":"ACC-PAYABLES"
+    },
+    {
+        "name":"Minami Saki",
+        "code":"MINAMI-SAKI"
+    },
+    {
+        "name":"Cost Control",
+        "code":"COSTCONTROL"
+    },
+    {
+        "name":"Finance Materials, Management, Control & Logistics",
+        "code":"LOGISTICS"
+    },
+    {
+        "name":"Purchasing",
+        "code":"PURCHASING"
+    },
+    {
+        "name":"Florist",
+        "code":"FLORIST"
+    },
+    {
+        "name":"Security",
+        "code":"SECURITY"
+    },
+    {
+        "name":"Executive Office",
+        "code":"EO"
+    },
+    {
+        "name":"Cafe Cashier",
+        "code":"CAFE-CASHIER"
+    },
+    {
+        "name":"Cafe FNB",
+        "code":"CAFE-FNB"
+    },
+    {
+        "name":"Corporate Legal",
+        "code":"LEGAL"
+    },
+    {
+        "name":"Banquet",
+        "code":"BQ"
+    },
+    {
+        "name":"AVLCI Executive",
+        "code":"AVLCI-EXEC"
+    },
+    {
+        "name":"Marketing",
+        "code":"AVLCI-MRKTNG"
+    },
+    {
+        "name":"Sales Upgrade",
+        "code":"AVLCI-UPG"
+    },
+    {
+        "name":"Branding & Creatives",
+        "code":"BC"
+    },
+    {
+        "name":"Boat Services",
+        "code":"BOATS"
+    },
+    {
+        "name":"Banquet Sales",
+        "code":"B-SALES"
+    },
+    {
+        "name":"Credit & Collection",
+        "code":"CNC"
+    },
+    {
+        "name":"F&B Division",
+        "code":"FB"
+    },
+    {
+        "name":"Flash Mart",
+        "code":"FLASH"
+    },
+    {
+        "name":"Hotel Sales",
+        "code":"H-SALES"
+    },
+    {
+        "name":"Lifestyle and Recreations",
+        "code":"LR"
+    },
+    {
+        "name":"Millennium-Real Estate Division Office",
+        "code":"MILLENNIUM"
+    },
+    {
+        "name":"Member Services",
+        "code":"MSD"
+    },
+    {
+        "name":"Property Grounds And Motorpool",
+        "code":"PGM"
+    },
+    {
+        "name":"Property Management",
+        "code":"PM"
+    },
+    {
+        "name":"Public Relations & Marketing Communications",
+        "code":"PRMARCOMM"
+    },
+    {
+        "name":"Resort Management Office",
+        "code":"RM"
+    },
+    {
+        "name":"Resort Sales",
+        "code":"R-SALES"
+    }
+]

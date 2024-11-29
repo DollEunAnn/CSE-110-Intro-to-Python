@@ -1,0 +1,189 @@
+[
+    [
+        'employee_number' => 23001,
+        'last_name' => 'Baguinang',
+        'first_name' => 'Elbert',
+        'middle_name' => 'Caballero',
+        'department_code' => 'AG-LAUNDRY',
+        'user_group_code' => 'REQUESTER',
+        'property_code' => 'AGLS',
+        'username' => 23001,
+        'password' => 23001
+    ],
+    [
+        'employee_number' => 23002,
+        'last_name' => 'Banatao',
+        'first_name' => 'Jayson',
+        'middle_name' => 'Camilo',
+        'department_code' => 'AG-LAUNDRY',
+        'user_group_code' => 'REQUESTER',
+        'property_code' => 'AGLS',
+        'username' => 23002,
+        'password' => 23002
+    ],
+    [
+        'employee_number' => 23003,
+        'last_name' => 'Dagooc',
+        'first_name' => 'Ricky John',
+        'middle_name' => 'Gamba',
+        'department_code' => 'AG-LAUNDRY',
+        'user_group_code' => 'REQUESTER',
+        'property_code' => 'AGLS',
+        'username' => 23003,
+        'password' => 23003
+    ],
+    [
+        'employee_number' => 23004,
+        'last_name' => 'De Guia',
+        'first_name' => 'Ligaya',
+        'middle_name' => 'Suarino',
+        'department_code' => 'AG-LAUNDRY',
+        'user_group_code' => 'REQUESTER',
+        'property_code' => 'AGLS',
+        'username' => 23004,
+        'password' => 23004
+    ],
+    [
+        'employee_number' => 23005,
+        'last_name' => 'Dela Pena',
+        'first_name' => 'Adonis',
+        'middle_name' => 'Reyes',
+        'department_code' => 'AG-LAUNDRY',
+        'user_group_code' => 'REQUESTER',
+        'property_code' => 'AGLS',
+        'username' => 23005,
+        'password' => 23005
+    ],
+    [
+        'employee_number' => 23007,
+        'last_name' => 'Openiano',
+        'first_name' => 'Jomar',
+        'middle_name' => 'Capales',
+        'department_code' => 'AG-LAUNDRY',
+        'user_group_code' => 'REQUESTER',
+        'property_code' => 'AGLS',
+        'username' => 23007,
+        'password' => 23007
+    ],
+    [
+        'employee_number' => 23008,
+        'last_name' => 'Ramirez',
+        'first_name' => 'Johnny',
+        'middle_name' => 'Payongayong',
+        'department_code' => 'AG-LAUNDRY',
+        'user_group_code' => 'REQUESTER',
+        'property_code' => 'AGLS',
+        'username' => 23008,
+        'password' => 23008
+    ],
+    [
+        'employee_number' => 23009,
+        'last_name' => 'Rebalde',
+        'first_name' => 'Danmar',
+        'middle_name' => 'Alanib',
+        'department_code' => 'AG-LAUNDRY',
+        'user_group_code' => 'REQUESTER',
+        'property_code' => 'AGLS',
+        'username' => 23009,
+        'password' => 23009
+    ],
+    [
+        'employee_number' => 23010,
+        'last_name' => 'Revilloza',
+        'first_name' => 'Daizyrie',
+        'middle_name' => 'Fabella',
+        'department_code' => 'AG-LAUNDRY',
+        'user_group_code' => 'REQUESTER',
+        'property_code' => 'AGLS',
+        'username' => 23010,
+        'password' => 23010
+    ],
+    [
+        'employee_number' => 23011,
+        'last_name' => 'Silla',
+        'first_name' => 'Jay Richard',
+        'middle_name' => 'Florentino',
+        'department_code' => 'AG-LAUNDRY',
+        'user_group_code' => 'REQUESTER',
+        'property_code' => 'AGLS',
+        'username' => 23011,
+        'password' => 23011
+    ],
+    [
+        'employee_number' => 23013,
+        'last_name' => 'Ballesteros',
+        'first_name' => 'Alexader',
+        'middle_name' => 'Tumala',
+        'department_code' => 'AG-LAUNDRY',
+        'user_group_code' => 'REQUESTER',
+        'property_code' => 'AGLS',
+        'username' => 23013,
+        'password' => 23013
+    ],
+    [
+        'employee_number' => 23015,
+        'last_name' => 'Valdez',
+        'first_name' => 'John',
+        'middle_name' => 'Paras',
+        'department_code' => 'AG-LAUNDRY',
+        'user_group_code' => 'REQUESTER',
+        'property_code' => 'AGLS',
+        'username' => 23015,
+        'password' => 23015
+    ],
+    [
+        'employee_number' => 23018,
+        'last_name' => 'Rey',
+        'first_name' => 'Jose',
+        'middle_name' => 'Parenio',
+        'department_code' => 'AG-LAUNDRY',
+        'user_group_code' => 'REQUESTER',
+        'property_code' => 'AGLS',
+        'username' => 23018,
+        'password' => 23018
+    ],
+    [
+        'employee_number' => 23019,
+        'last_name' => 'Bilog',
+        'first_name' => 'Orlando',
+        'middle_name' => 'Banaria',
+        'department_code' => 'AG-LAUNDRY',
+        'user_group_code' => 'REQUESTER',
+        'property_code' => 'AGLS',
+        'username' => 23019,
+        'password' => 23019
+    ],
+    [
+        'employee_number' => 23020,
+        'last_name' => 'Valdevia',
+        'first_name' => 'Erwin',
+        'middle_name' => 'Penuela',
+        'department_code' => 'AG-LAUNDRY',
+        'user_group_code' => 'REQUESTER',
+        'property_code' => 'AGLS',
+        'username' => 23020,
+        'password' => 23020
+    ],
+    [
+        'employee_number' => 23042,
+        'last_name' => 'Diosana',
+        'first_name' => 'Mariegen',
+        'middle_name' => 'Indino',
+        'department_code' => 'AG-LAUNDRY',
+        'user_group_code' => 'REQUESTER',
+        'property_code' => 'AGLS',
+        'username' => 23042,
+        'password' => 23042
+    ],
+    [
+        'employee_number' => 23043,
+        'last_name' => 'Mandia',
+        'first_name' => 'Isidro',
+        'middle_name' => 'Bordios',
+        'department_code' => 'AG-LAUNDRY',
+        'user_group_code' => 'REQUESTER',
+        'property_code' => 'AGLS',
+        'username' => 23043,
+        'password' => 23043
+    ]
+]

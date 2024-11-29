@@ -1,0 +1,266 @@
+[
+    [
+        'name'=>'Guest (WiFi\/TV Connection Assist)',
+        'priority_level'=>'Urgent',
+        'support_level'=>'1',
+        'tags'=>'service desk'
+    ],
+    [
+        'name'=>'Guest (Event LAN Connection)',
+        'priority_level'=>'Urgent',
+        'support_level'=>'1',
+        'tags'=>'service desk'
+    ],
+    [
+        'name'=>'Guest (Telephone Support)',
+        'priority_level'=>'Urgent',
+        'support_level'=>'1',
+        'tags'=>'service desk'
+    ],
+    [
+        'name'=>'Guest (SDB Safety Desposit Box Lowbat)',
+        'priority_level'=>'Urgent',
+        'support_level'=>'1',
+        'tags'=>'service desk'
+    ],
+    [
+        'name'=>'Door Lockset (Battery\/Reprogram\/Readout)',
+        'priority_level'=>'Urgent',
+        'support_level'=>'1',
+        'tags'=>'service desk'
+    ],
+    [
+        'name'=>'Computer Hardware\/Laptop (Repair\/Upgrade\/Replacement)',
+        'priority_level'=>'Medium',
+        'support_level'=>'1',
+        'tags'=>'service desk'
+    ],
+    [
+        'name'=>'Computer Software (Application\/WIndows Update)',
+        'priority_level'=>'Medium',
+        'support_level'=>'1',
+        'tags'=>'service desk'
+    ],
+    [
+        'name'=>'Device Deployment\/Setup (New Installation)',
+        'priority_level'=>'Low',
+        'support_level'=>'1',
+        'tags'=>'service desk'
+    ],
+    [
+        'name'=>'Admin (Internet Connection\/Wifi Basic Troubleshooting)',
+        'priority_level'=>'Medium',
+        'support_level'=>'1',
+        'tags'=>'service desk'
+    ],
+    [
+        'name'=>'Computer Peripherals (Mouse\/Keyboard\/Headphone\/Webcam\/Monitor\/etc)',
+        'priority_level'=>'Low',
+        'support_level'=>'1',
+        'tags'=>'service desk'
+    ],
+    [
+        'name'=>'Meeting Setup\/Pullout',
+        'priority_level'=>'Low',
+        'support_level'=>'1',
+        'tags'=>'service desk'
+    ],
+    [
+        'name'=>'Company Mobile Device Phone\/SIM ',
+        'priority_level'=>'Medium',
+        'support_level'=>'1',
+        'tags'=>'service desk'
+    ],
+    [
+        'name'=>'Printer (Paper Jam\/Dirty Printout\/Installation and configuration)',
+        'priority_level'=>'Medium',
+        'support_level'=>'1',
+        'tags'=>'service desk'
+    ],
+    [
+        'name'=>'RCI\/Checkin\/Checkout',
+        'priority_level'=>'Low',
+        'support_level'=>'1',
+        'tags'=>'service desk'
+    ],
+    [
+        'name'=>'Equipment Relocation Request',
+        'priority_level'=>'Low',
+        'support_level'=>'1',
+        'tags'=>'service desk'
+    ],
+    [
+        'name'=>'UPS (Lowbat\/Replacement)',
+        'priority_level'=>'Medium',
+        'support_level'=>'1',
+        'tags'=>'service desk'
+    ],
+    [
+        'name'=>'ACHI Training HOW laptop\/Desktop set up ',
+        'priority_level'=>'Medium',
+        'support_level'=>'1',
+        'tags'=>'service desk'
+    ],
+    [
+        'name'=>'ACHI Zoom (Meeting Link\/Account Concern)',
+        'priority_level'=>'Low',
+        'support_level'=>'1',
+        'tags'=>'service desk'
+    ],
+    [
+        'name'=>'AVLCI Zoom (Account creation\/License\/modification\/deactivation) ',
+        'priority_level'=>'Low',
+        'support_level'=>'2',
+        'tags'=>'system support'
+    ],
+    [
+        'name'=>'System (Hubspot)',
+        'priority_level'=>'Medium',
+        'support_level'=>'2',
+        'tags'=>'system support'
+    ],
+    [
+        'name'=>'System (Memsys\/Iteams\/IFCA\/Accountsys\/EZCheckin)',
+        'priority_level'=>'Medium',
+        'support_level'=>'2',
+        'tags'=>'system support'
+    ],
+    [
+        'name'=>'System (CheckSCM\/Suns)',
+        'priority_level'=>'Medium',
+        'support_level'=>'2',
+        'tags'=>'system support'
+    ],
+    [
+        'name'=>'System (Email(o365\/GWS)',
+        'priority_level'=>'Medium',
+        'support_level'=>'2',
+        'tags'=>'system support'
+    ],
+    [
+        'name'=>'System (Email Retrieval from Backup)',
+        'priority_level'=>'Medium',
+        'support_level'=>'2',
+        'tags'=>'system support'
+    ],
+    [
+        'name'=>'System (Smart lock System)',
+        'priority_level'=>'Medium',
+        'support_level'=>'2',
+        'tags'=>'system support'
+    ],
+    [
+        'name'=>'System (Encoding of Menu)',
+        'priority_level'=>'Medium',
+        'support_level'=>'2',
+        'tags'=>'system support'
+    ],
+    [
+        'name'=>'System (Updating of License)',
+        'priority_level'=>'Medium',
+        'support_level'=>'2',
+        'tags'=>'system support'
+    ],
+    [
+        'name'=>'System (Voucher Management System)',
+        'priority_level'=>'Medium',
+        'support_level'=>'2',
+        'tags'=>'system support'
+    ],
+    [
+        'name'=>'System (DCode)',
+        'priority_level'=>'Medium',
+        'support_level'=>'2',
+        'tags'=>'system support'
+    ],
+    [
+        'name'=>'Telephone No dial tone\/line tracing\/static\/Noisy Line\/Restoration',
+        'priority_level'=>'Urgent',
+        'support_level'=>'2',
+        'tags'=>'infrastructure and network'
+    ],
+    [
+        'name'=>'Telephone Installation\/Additional\/Activation\/Relocation',
+        'priority_level'=>'Medium',
+        'support_level'=>'2',
+        'tags'=>'infrastructure and network'
+    ],
+    [
+        'name'=>'VPN (Installation\/Account Creation)',
+        'priority_level'=>'Medium',
+        'support_level'=>'2',
+        'tags'=>'infrastructure and network'
+    ],
+    [
+        'name'=>'CCTV Installation and configuration',
+        'priority_level'=>'Medium',
+        'support_level'=>'2',
+        'tags'=>'infrastructure and network'
+    ],
+    [
+        'name'=>'CCTV Troubleshooting',
+        'priority_level'=>'Medium',
+        'support_level'=>'2',
+        'tags'=>'infrastructure and network'
+    ],
+    [
+        'name'=>'CCTV Relocation',
+        'priority_level'=>'Medium',
+        'support_level'=>'2',
+        'tags'=>'infrastructure and network'
+    ],
+    [
+        'name'=>'CCTV Upgrade request',
+        'priority_level'=>'Medium',
+        'support_level'=>'2',
+        'tags'=>'infrastructure and network'
+    ],
+    [
+        'name'=>'Network (Bursting of speed)',
+        'priority_level'=>'Medium',
+        'support_level'=>'2',
+        'tags'=>'infrastructure and network'
+    ],
+    [
+        'name'=>'Network Unblock Website (depends on websites\/higher ups approval) ',
+        'priority_level'=>'Medium',
+        'support_level'=>'2',
+        'tags'=>'infrastructure and network'
+    ],
+    [
+        'name'=>'Network Cabling',
+        'priority_level'=>'Medium',
+        'support_level'=>'2',
+        'tags'=>'infrastructure and network'
+    ],
+    [
+        'name'=>'Network Cable Replacement ',
+        'priority_level'=>'Medium',
+        'support_level'=>'2',
+        'tags'=>'infrastructure and network'
+    ],
+    [
+        'name'=>'Network rehabilitation \n',
+        'priority_level'=>'Medium',
+        'support_level'=>'2',
+        'tags'=>'infrastructure and network'
+    ],
+    [
+        'name'=>'Network issues ',
+        'priority_level'=>'Medium',
+        'support_level'=>'2',
+        'tags'=>'infrastructure and network'
+    ],
+    [
+        'name'=>'Monitors network performance \n',
+        'priority_level'=>'Medium',
+        'support_level'=>'2',
+        'tags'=>'infrastructure and network'
+    ],
+    [
+        'name'=>'Configure network hardware such as servers, routers, and switches',
+        'priority_level'=>'Medium',
+        'support_level'=>'2',
+        'tags'=>'infrastructure and network'
+    ]
+]
